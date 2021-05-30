@@ -1,15 +1,11 @@
 [![header](https://capsule-render.vercel.app/api?type=Slice&color=ff94bf&height=260&section=header&text=%20%20DoYeon%23log%20%20&&fontSize=48&animation=twinkling&fontColor=535457&fontAlign=82&rotate=15&fontAlignY=40)](https://github.com/altmshfkgudtjr)
 
-# Hello, Welcome to my Github profile! 😀
+## Hello, Welcome to my Github profile! 😀
 <br/>
-<br/>
 
-## :blush: About Me
+<!-- ## :blush: About Me
 
-* 👩🏻‍💼  Junior Web Front-end developer
-
-
-<br/>
+* 👩🏻‍💼  Junior Web Front-end developer -->
 
 <!-- 사용하는 언어와 도구 -->
 ## :books: Languages and Tools
@@ -49,13 +45,13 @@
 </div>
 
 <!-- 연락처 -->
-## :raising_hand: Contact Me
+<!-- ## :raising_hand: Contact Me
 
 <a href="mailto:97godo@naver.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></p>
+</a></p> -->
 
 </div>
 <div align="center">
