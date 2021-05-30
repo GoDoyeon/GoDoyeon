@@ -1,3 +1,8 @@
+[![header](https://capsule-render.vercel.app/api?type=Slice&color=ff94bf&height=260&section=header&text=%20%20DoYeon%23log%20%20&&fontSize=48&animation=twinkling&fontColor=535457&fontAlign=82&rotate=15&fontAlignY=40)](https://github.com/altmshfkgudtjr)
+
+# Hello, Welcome to my Github profile! 😀
+<br/>
+<br/>
 
 ## :blush: About Me
 
@@ -56,3 +61,7 @@
 <div align="center">
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoDoyeon&count_bg=%23F579AB&title_bg=%23646464&icon=adblock.svg&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)">
   </div>
+  
+  
+[![footer](https://capsule-render.vercel.app/api?type=slice&color=ff94bf&section=footer&height=220&fontSize=28)](https://github.com/altmshfkgudtjr)
+
