@@ -2,7 +2,6 @@
 ## :blush: About Me
 
 * 👩🏻‍💼  Junior Web Front-end developer
-* :seedling: 매일 성장하는 개발자, 고도연입니다.
 
 
 <br/>
